@@ -1,0 +1,7 @@
+Prueba función: convertirCaF
+Grados Centigrados origen: 50
+Grados Fahrenheit convertidos: 122
+-------
+Prueba función: convertirKmsMillas
+Kilometros origen: 150
+Millas convertidas: 93.2055
